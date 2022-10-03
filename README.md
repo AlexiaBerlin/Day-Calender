@@ -1,2 +1,2 @@
 # Day-Calender
-Day Calender JavaScript, HTML, CSS
+Day Calender JavaScript (.JS, .HTML, .CSS)
